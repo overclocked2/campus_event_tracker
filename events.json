@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Web Dev Open Source Workshop",
+    "date": "2026-11-05",
+    "venue": "Kanpur · Workshop",
+    "category": "Workshop",
+    "swags": true,
+    "link": "#"
+  },
+  {
+    "id": "2",
+    "title": "AI & LLM Hackathon 2026",
+    "date": "2026-11-15",
+    "venue": "Delhi · Hackathon",
+    "category": "Hackathon",
+    "swags": true,
+    "link": "#"
+  }
+]
